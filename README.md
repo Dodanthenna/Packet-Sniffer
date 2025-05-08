@@ -44,14 +44,14 @@ pip install scapy
 
 ## 🔒 Disclaimer
 
-- This project is intended for educational and ethical use only. Do not use it to sniff traffic on unauthorized networks.
+- This project is intended for educational and ethical use only. Please do not use it to sniff traffic on unauthorized networks.
 
 ## 🙋 About Me
 
 - Chamika Dilshan
-🎓 Undergraduate Student in Network & Security Technology
-🔗 LinkedIn
-🔗 GitHub
+- 🎓 Undergraduate Student in Network & Security Technology
+- 🔗 LinkedIn
+- 🔗 GitHub
 
 ## 🏷️ Tags
 #Python #CyberSecurity #Scapy #Networking #PacketSniffer #Tkinter #PortfolioProject
