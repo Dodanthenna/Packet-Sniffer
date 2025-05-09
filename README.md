@@ -4,7 +4,7 @@ A real-time packet sniffing application built with **Python**, using **Scapy** f
 
 ## 🎥 Demo Video
 
-Check out the demonstration video on [LinkedIn](https://www.linkedin.com/in/your-profile)  
+Check out the demonstration video on [LinkedIn](https://www.linkedin.com/posts/chamika-dilshan-83a987264_cybersecurity-networksecurity-pythonproject-activity-7326665165578391553-WOqp?utm_source=share&utm_medium=member_android&rcm=ACoAAEDtp-4BfBzuWx1AiAAQ6bFtCtgC9CSjHBk)  
 🔗 GitHub: [https://github.com/your-username/packet-sniffer-gui](https://github.com/Dodanthenna/Packet-Sniffer.git)
 
 ---
